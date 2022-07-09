@@ -83,3 +83,11 @@ php artisan serve
 7. Langkah terakhir lakukan pengecekan RSS apakah sudah berhasil atau belum
 
    ![](Rss/8.PNG)
+
+#### Tahap 3 Tampilan Halaman RSS
+Berikut ditampilkan halaman RSS yang telah dibuat
+![Tampilan RSS](https://user-images.githubusercontent.com/95134218/178119434-7104737c-6857-44f2-95a6-0baba04f3699.PNG)
+Berikut Link RSS yang digunakan :
+1. https://news.un.org/feed/subscribe/en/news/topic/climate-change/feed/rss.xml
+2. https://news.un.org/feed/subscribe/en/news/topic/women/feed/rss.xml
+3. https://news.un.org/feed/subscribe/en/news/topic/culture-and-education/feed/rss.xml
